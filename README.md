@@ -4,7 +4,7 @@ Uwa Admin is admin panel template based on Bootstrap Framework CSS
 
 ## Demo
 
-![screen-uwa-admin](https://github.com/rakamaheka22/Uwa-Admin/demo/screen.png)
+![screen-uwa-admin](https://github.com/rakamaheka22/Uwa-Admin/blob/master/demo/screen.png)
 
 ## Developed By
 
