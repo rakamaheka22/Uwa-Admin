@@ -14,4 +14,4 @@ Uwa Admin is admin panel template based on Bootstrap Framework CSS
 
 ## License
 
-Copyright 2016 Raka Maheka Auramuwahid
+Copyright 2017 Raka Maheka Auramuwahid
